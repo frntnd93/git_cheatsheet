@@ -1,2 +1,2 @@
-# git_cheatsheet
-CheatSheet for git commands (rus)
+# Основные команды Git
+
